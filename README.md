@@ -24,9 +24,12 @@ An AI-powered WhatsApp automation bot built with n8n. This workflow acts as a sm
 5.  **Response:** The final output is sent back to the user via the WhatsApp node.
 
 ## 📸 Screenshots
-*(Insert the screenshots you showed me here)*
-*   **Workflow Canvas:** Shows the n8n node architecture.
-*   **WhatsApp Chat:** Shows the bot successfully answering a user's query.
+### n8n Workflow Architecture
+  <img width="1600" height="702" alt="3f646474-152f-4863-95f1-cd3689021e53" src="https://github.com/user-attachments/assets/57ef5b1d-4acc-4186-88e1-043deb344ef8" />
+  
+### Live WhatsApp Interaction
+   <img width="1289" height="948" alt="724422f1-66cf-45ef-8c3f-5cbe054c1dd7" src="https://github.com/user-attachments/assets/1656bcfa-38af-4df2-860c-90a4115c6722" />
+
 
 ## ⚙️ Setup Instructions
 1.  Import the `whatsapp-ai-agent-workflow.json` file into your n8n instance.
@@ -38,4 +41,4 @@ An AI-powered WhatsApp automation bot built with n8n. This workflow acts as a sm
 3.  Activate the workflow.
 
 ## 🤝 Contact
-**G Sinduja** - [Your LinkedIn Link]
+**G Sinduja** - [https://www.linkedin.com/in/sindu-ai-automation-specialist]
